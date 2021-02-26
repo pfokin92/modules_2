@@ -1,0 +1,22 @@
+{
+  "name": "modules_2",
+  "version": "1.0.0",
+  "description": "'Homework task 2'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfokin92/modules_2.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "pfokin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pfokin92/modules_2/issues"
+  },
+  "homepage": "https://github.com/pfokin92/modules_2#readme"
+}
