@@ -1,8 +1,7 @@
-{
+module.exports = {
     "env": {
         "browser": true,
-        "es6": true,
-        "jest": true
+        "es2021": true
     },
     "extends": [
         "airbnb-base"
@@ -12,10 +11,5 @@
         "sourceType": "module"
     },
     "rules": {
-        "no-restricted-syntax": [
-            "error",
-            "LabeledStatement",
-            "WithStatement"
-          ]
     }
-}
+};
